@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1590521486 source:c:\users\lenovo\codeblocks\test\statictables.cpp
+	"StaticTables.h"
+
+1590521486 c:\users\lenovo\codeblocks\test\statictables.h
+	<string>
+	<map>
+	<iostream>
+	<vector>
+
+1627407149 source:c:\users\lenovo\codeblocks\test\main.cpp
+	<vector>
+	<string>
+	"math.h"
+	<sstream>
+	<iostream>
+	<fstream>
+
+1627405098 source:c:\users\lenovo\codeblocks\test\md5.cpp
+	<iostream>
+	"math.h"
+	<cstring>
+	<vector>
+
