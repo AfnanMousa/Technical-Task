@@ -199,7 +199,7 @@ int main(void)
             {
                 Output+=Row[2];
             }else{
-               // cout << Output;
+                cout << Output;
                 string temp=Output;
 
                 Output_Vector.push_back(temp);
